@@ -1,0 +1,10 @@
+C:\Users\Mika\Documents\cs341\CTA_DB\CTARidershipAnalysis\CTARidershipAnalysis\bin\Debug\CTARidershipAnalysis.exe.config
+C:\Users\Mika\Documents\cs341\CTA_DB\CTARidershipAnalysis\CTARidershipAnalysis\bin\Debug\CTARidershipAnalysis.exe
+C:\Users\Mika\Documents\cs341\CTA_DB\CTARidershipAnalysis\CTARidershipAnalysis\bin\Debug\CTARidershipAnalysis.pdb
+C:\Users\Mika\Documents\cs341\CTA_DB\CTARidershipAnalysis\CTARidershipAnalysis\obj\Debug\CTARidershipAnalysis.csprojResolveAssemblyReference.cache
+C:\Users\Mika\Documents\cs341\CTA_DB\CTARidershipAnalysis\CTARidershipAnalysis\obj\Debug\CTARidershipAnalysis.Form1.resources
+C:\Users\Mika\Documents\cs341\CTA_DB\CTARidershipAnalysis\CTARidershipAnalysis\obj\Debug\CTARidershipAnalysis.Properties.Resources.resources
+C:\Users\Mika\Documents\cs341\CTA_DB\CTARidershipAnalysis\CTARidershipAnalysis\obj\Debug\CTARidershipAnalysis.csproj.GenerateResource.Cache
+C:\Users\Mika\Documents\cs341\CTA_DB\CTARidershipAnalysis\CTARidershipAnalysis\obj\Debug\CTARidershipAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\Mika\Documents\cs341\CTA_DB\CTARidershipAnalysis\CTARidershipAnalysis\obj\Debug\CTARidershipAnalysis.exe
+C:\Users\Mika\Documents\cs341\CTA_DB\CTARidershipAnalysis\CTARidershipAnalysis\obj\Debug\CTARidershipAnalysis.pdb
